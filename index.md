@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Neel Kanani
 layout: home
 ---
 
